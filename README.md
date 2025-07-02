@@ -1,21 +1,5 @@
 <h1 align="center">🚀 Bharat Sutar - Portfolio 🌟</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&width=500&lines=Frontend+Developer+|+Problem+Solver;Full-Stack+Developer+|+AI%2FML+Enthusiast;Competitive+Programmer+|+Tech+Innovator" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/yashodipmore">
-    <img src="https://img.shields.io/github/stars/yashodipmore?color=yellow&label=Stars&logo=github&style=for-the-badge" alt="GitHub stars">
-  </a>
-  <a href="https://github.com/yashodipmore">
-    <img src="https://img.shields.io/github/forks/yashodipmore?color=blue&label=Forks&logo=github&style=for-the-badge" alt="GitHub forks">
-  </a>
-  <a href="https://github.com/yashodipmore">
-    <img src="https://img.shields.io/github/issues/yashodipmore?color=red&label=Issues&logo=github&style=for-the-badge" alt="GitHub issues">
-  </a>
-</p>
-
 ---
 
 ## 📌 About My Portfolio
@@ -24,7 +8,7 @@ Welcome to my **personal portfolio website**, a dynamic and interactive space sh
 
 ### 🚀 **Live Demo**
 
-🔗 **[Visit My Portfolio](https://yashodipmore.netlify.app/)**
+<!-- 🔗 **[Visit My Portfolio]()** -->
 
 ---
 
@@ -61,8 +45,8 @@ Welcome to my **personal portfolio website**, a dynamic and interactive space sh
 
 ### ☁️ **Hosting & Deployment**
 
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)  
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<!-- ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) -->
 
 ---
 
@@ -73,7 +57,7 @@ Welcome to my **personal portfolio website**, a dynamic and interactive space sh
 ### 📥 Clone the Repository
 
 ```sh
-git clone https://github.com/yashodipmore/portfolio.git
+git clone https://github.com/BharatSutar12/portfolio.git
 cd portfolio
 
 
