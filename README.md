@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 <h1 align="center">🚀 Bharat Sutar - Portfolio 🌟</h1>
 
 ---
@@ -64,6 +65,9 @@ cd portfolio
 
 
 ```
+
 =======
+
 # Portfolio
->>>>>>> eb5c045143ba1ed050cb981741212107945cd6a9
+
+> > > > > > > eb5c045143ba1ed050cb981741212107945cd6a9

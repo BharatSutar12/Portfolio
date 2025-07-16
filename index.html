@@ -3,11 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Portfolio - Home</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./style/index.css">
+    
 
     <!-- AOS Library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
@@ -82,8 +84,8 @@
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
 
 <!-- Hero Section -->
- <section class="relative h-screen flex flex-col md:flex-row items-center  px-6 md:px-16 gap-12 overflow-hidden" style="background: linear-gradient(135deg, #2C3E50, #34495E);">
-    <div id="particles-js" class="absolute inset-0 w-full h-full"></div>
+ <section id="home" class="relative h-screen flex flex-col md:flex-row items-center  px-6 md:px-16 gap-12 overflow-hidden " style="background: linear-gradient(135deg, #2C3E50, #34495E);">
+    <div id="particles-js" class="absolute inset-0 w-full h-600px"></div>
 
      <!-- Left Side: Text Box -->
     <div class="relative-header z-10 text-left "
@@ -94,7 +96,7 @@
             I'm a professional Frontend Developer that loves creating engaging UI and bringing<br>
             products to life. My interest in web development started back in 2017 and currently I enjoy<br>
             working on Languages & Frameworks like Javascript, React.js and Next.js</p>
-            <div class="mt-6 flex space-x-4"
+            <div class="mt-6 flex space-x-2"
              data-aos="zoom-in" data-aos-duration="1400" data-aos-delay="400">
             <a href="./assests/Bharat-sutar.pdf" target="_blank" class="btn btn-resume">
                 <i class="fa-solid fa-file"></i> Resume
@@ -138,7 +140,7 @@ particlesJS("particles-js", {
     "particles": {
         "number": {
             "value": 200,
-            "density": { "enable": true, "value_area": 800 }
+            "density": { "enable": true, "value_area": 500 }
         },
         "color": { "value": "#ffffff" },
         "shape": {
@@ -313,7 +315,7 @@ particlesJS("projects-particles", {
 
         <!-- Skill Tabs -->
         <div class="mt-8 flex justify-center space-x-4">
-            <button class="skill-tab active" onclick="showSkills('core')">🛠️ Core</button>
+            <button class="skill-tab active" onclick="showSkills('core')">🛠️Core</button>
             <button class="skill-tab" onclick="showSkills('programming')">💻 Programming</button>
             <button class="skill-tab" onclick="showSkills('tools')">🛠️ Tools</button>
             <button class="skill-tab" onclick="showSkills('ai')">🎨 Design</button>
